@@ -1,0 +1,19 @@
+name,type,manufacturer,price,stock,extra
+Amoxicillin 500mg,Rx,PharmaCo,25.00,88,ClassB
+Azithromycin 250mg,Rx,MediCorp,40.00,59,ClassA
+Metformin 850mg,Rx,GenPharma,18.00,200,ClassB
+Lisinopril 10mg,Rx,HealthFirst,22.00,80,ClassA
+Atorvastatin 20mg,Rx,CardioLab,35.00,49,ClassC
+Paracetamol 500mg,OTC,HealthPlus,5.00,499,Painkiller
+Ibuprofen 400mg,OTC,GenPharma,7.00,388,Painkiller
+Vitamin C 1000mg,OTC,NutriLife,8.50,297,Vitamin
+Zinc 50mg,OTC,NutriLife,6.00,348,Vitamin
+Augmentin 1gm,Rx,GlaxoSmithKline,99.00,45,Schedule II
+Panadol Advance,OTC,Haleon,30.00,117,Pain Relief
+Concor 5mg,Rx,Amoun,40.50,28,Beta-Blocker
+Antinal,OTC,Amoun,26.00,83,Intestinal Antiseptic
+Catafast 50mg,OTC,Novartis,55.00,49,Analgesic
+Brufen 400mg,OTC,Abbott,35.00,99,Anti-inflammatory
+Telfast 180mg,OTC,Sanofi,75.00,38,Antihistamine
+Amaryl 2mg,Rx,Sanofi,50.00,30,Diabetes
+Controloc 40mg,Rx,Evapharma,90.00,12,Proton Pump Inhibitor
