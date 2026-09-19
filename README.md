@@ -111,4 +111,4 @@ java -cp bin gui.PharmacyClientGUI
 
 ## Author
 
-Belal Kandil
+Bilal Kandil
